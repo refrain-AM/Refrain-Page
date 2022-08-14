@@ -3,7 +3,7 @@ baseURL = "https://blog.refrain.cc/"
 author = "Steve Francia"
 copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
 paginate = 3
-languageCode = "en"
+languageCode = "zh"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
@@ -39,6 +39,11 @@ title = "夜行列车"
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
+    weight = 10
+  [[menu.main]]
+    identifier = "archives"
+    name = "Archives"
+    url = "/archives/"
     weight = 10
 
 [taxonomies]
