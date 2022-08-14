@@ -1,3 +1,1 @@
-+++
-author = "lee.so"
-+++
+Here is a example blog.
