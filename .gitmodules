@@ -1,6 +1,12 @@
 [submodule "themes/paper"]
 	path = themes/paper
 	url = https://github.com/nanxiaobei/hugo-paper
-[submodule "themes/bootstrap-bp-hugo-theme"]
-	path = themes/bootstrap-bp-hugo-theme
-	url = https://github.com/spech66/bootstrap-bp-hugo-theme
+[submodule "themes/hugo-theme-cleanwhite"]
+	path = themes/hugo-theme-cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
+[submodule "themes/eureka"]
+	path = themes/eureka
+	url = https://github.com/wangchucheng/hugo-eureka.git
+[submodule "themes/hugo-tania"]
+	path = themes/hugo-tania
+	url = https://github.com/WingLim/hugo-tania
