@@ -12,16 +12,13 @@ ignoreErrors = ["error-remote-getjson"]
 
 # ------------------------------
 theme = "paper"
-title = "Paper"
+title = "夜行列车"
 
 [params]
-  twitter = 'nanxiaobei'
-  github = 'nanxiaobei'
-  instagram = 'nan.xiaobei'
 
   avatar = 'nanxiaobei@gmail.com'
-  name = 'Lee'
-  bio = 'Discover fresh context'
+  name = 'Refrain'
+  bio = 'A misty moom...'
 
 # ------------------------------
 
