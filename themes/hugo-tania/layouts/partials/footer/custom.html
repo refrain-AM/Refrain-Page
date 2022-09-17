@@ -3,16 +3,18 @@
 <div id="sakana-widget" 
 style="position:fixed;bottom:10px;right:10px;">
 </div>
+
 <script>
-  function initSakanaWidget() {
-    sakanaWidget = new SakanaWidget();
-    sakanaWidget.mount('#sakana-widget');
-    // sakanaWidget.setCharacter('chisato');
-    sakanaWidget.setCharacter('takina');
-  }
+    function initSakanaWidget() {
+      sakanaWidget = new SakanaWidget();
+      sakanaWidget.mount('#sakana-widget');
+      // sakanaWidget.setCharacter('chisato');
+      sakanaWidget.setCharacter('takina');
+    }
 </script>
+
 <script
   async
   onload="initSakanaWidget()"
-  src="https://cdn.jsdelivr.net/npm/sakana-widget@2.2.1/lib/sakana.min.js"
+  src="https://cdn.jsdelivr.net/npm/sakana-widget@2.3.2/lib/sakana.min.js"
 ></script>
