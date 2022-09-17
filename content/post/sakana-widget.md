@@ -2,7 +2,7 @@
 title: "在hugo的主题中添加石蒜模拟器🐟「Sakana! Widget」"
 author: Refrain
 date: 2022-09-17T10:28:29+08:00
-draft: true.
+# draft: true.
 categories:
 - blog
 ---
