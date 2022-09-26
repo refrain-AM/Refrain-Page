@@ -105,6 +105,18 @@ categories:
 
 **源码**：[sympy/sympy: A computer algebra system written in pure Python (github.com)](https://github.com/sympy/sympy)
 
+## 机器学习
+
+### PyTorch
+
+> An open source machine learning framework that accelerates the path from research prototyping to production deployment.
+
+[PyTorch](https://pytorch.org/)
+
+**文档**：[PyTorch documentation — PyTorch 1.12 documentation](https://pytorch.org/docs/stable/index.html)
+
+**源码**：[pytorch/pytorch: Tensors and Dynamic neural networks in Python with strong GPU acceleration (github.com)](https://github.com/pytorch/pytorch)
+
 ## 其他
 
 ### pypinyin

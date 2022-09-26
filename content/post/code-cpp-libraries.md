@@ -4,10 +4,11 @@ date: 2022-09-27T00:46:09+08:00
 categories:
 - code
 ---
-
 <https://cplusplus.com/reference/>
 
-## Boost C++ 库
+## 算法
+
+### Boost C++ 库
 
 > Boost provides free peer-reviewed portable C++ source libraries.
 
@@ -17,6 +18,44 @@ categories:
 
 - [Boost Library Documentation](https://www.boost.org/doc/libs/)
 - [Highscore - The Boost C++ Libraries](http://zh.highscore.de/cpp/boost/)
+
+## 计算
+
+### Eigen
+
+> Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
+
+<https://eigen.tuxfamily.org/>
+
+**文档**：[Eigen: Main Page](https://eigen.tuxfamily.org/dox/)
+
+**源码**：[libeigen / eigen · GitLab](https://gitlab.com/libeigen/eigen)
+
+## 格式化工具
+
+### {fmt}
+
+>**{fmt}** is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams.
+
+[Overview — fmt 9.0.0 documentation](https://fmt.dev/latest/index.html)
+
+**文档**：[API Reference — fmt 9.0.0 documentation](https://fmt.dev/latest/api.html)
+
+**源码**：[fmtlib/fmt: A modern formatting library (github.com)](https://github.com/fmtlib/fmt)
+
+## 测试工具
+
+### GoogleTest
+
+> GoogleTest is Google’s C++ testing and mocking framework.
+
+**文档**：[GoogleTest User’s Guide | GoogleTest](https://google.github.io/googletest/)
+
+**源码**：[google/googletest: GoogleTest - Google Testing and Mocking Framework (github.com)](https://github.com/google/googletest)
+
+**教程**：
+
+- [Googletest 入门 - 简书 (jianshu.com)](https://www.jianshu.com/p/65c0c373a2a8)
 
 ## 多媒体
 
