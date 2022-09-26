@@ -20,7 +20,7 @@ paginate = 6
   siteName = "Refrain"
   siteDesc = "A misty moom..."
   author = "Refrain"
-
+  toc = true
   [params.colorScheme]
     # Enable toggle colorScheme
     # Default to true
